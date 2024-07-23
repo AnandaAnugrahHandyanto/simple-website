@@ -77,11 +77,6 @@
   ],
   "Services": [
     {
-      "img": "img/services/sumareconmal.jpg",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
       "img": "img/services/aeon.jpg",
       "name": "Consectetur adipiscing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
