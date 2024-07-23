@@ -124,6 +124,16 @@ export const Contact = (props) => {
                 {props.data ? props.data.email : "loading"}
               </p>
             </div>
+            <div className="contact-item">
+              <p>
+                <span>
+                  <i></i> Operational Time
+                </span>{" "}
+                Mon - Wed 05 Am - 09 Pm <br />
+                Thu - Sat 05 Am - 08 Pm <br />
+                Thu - Sat 05 Am - 08 Pm
+              </p>
+            </div>
           </div>
           <div className="col-md-12">
             <div className="row">
@@ -141,7 +151,7 @@ export const Contact = (props) => {
                   </li>
                   <li>
                     <a href={props.data ? props.data.youtube : "/"}>
-                      <i className="fa fa-youtube"></i>
+                      <i className="fa fa-instagram"></i>
                     </a>
                   </li>
                 </ul>
@@ -153,10 +163,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
+            &copy; 2024 Copyright: PT AZHA GLOBAL SOLUTIONS. All rights reserved.{" "}
           </p>
         </div>
       </div>
